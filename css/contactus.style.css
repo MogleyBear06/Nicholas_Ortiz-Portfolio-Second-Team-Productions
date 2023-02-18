@@ -4,7 +4,6 @@
     -webkit-text-fill-color: silver;
 }
 
-
 main {
     margin: 25px;
 }
@@ -37,7 +36,7 @@ h1 {
 
 .comment {
     display: block;
-    width: 425px;
+    width: 420px;
     height: 200px;
     margin-top: 5px;
 }
