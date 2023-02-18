@@ -6,20 +6,27 @@
 
 
 main {
-    margin: 23px;
+    margin: 25px;
 }
 
 a {
     text-decoration: none;
 }
 
-nav{
+nav {
     font-weight: bold;
 }
 
+#headervp {
+    display: flex;
+    justify-content: space-between;
+    position:sticky;
+    top: 0;
+    background-color: black;
+    background-size: contain;
+}
+
 h1 {
-    position: sticky;
-    top: 0px;
     text-align: center;
     font-size: 50pt;
     font-family: "cursive", "brush script MT";
@@ -35,21 +42,9 @@ h1 {
 }
 
 footer{
-    
     text-align: center;
     bottom: 0;
     width: 100%;
     margin-top: auto;
 }
 
-.contentdisplay {
-    display:flex;
-    flex-direction: row;
-    align-content: center;
-    margin-top: 100px;
-}
-
-.navdisplay {
-    display:flex;
-    flex-direction: row;
-}
