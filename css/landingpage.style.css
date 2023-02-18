@@ -89,18 +89,17 @@ font-weight:bold;
     display:flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    max-width: 800;
+    max-width: 800px;
 }
 
 #vpddisplay {
-    max-width: 800;
+    max-width: 800px;
 }
 
 .oscontainer {
     display:flex;
-    
     justify-content: space-between;
-    max-width: 800;
+    max-width: 800px;
    
 }
 
@@ -109,6 +108,11 @@ font-weight:bold;
     flex-wrap: wrap;
     justify-content: space-between;
     max-width: 800;
+}
+
+#watchnow{
+    font-weight: bold;
+    text-decoration: underline;
 }
 
 #links {
