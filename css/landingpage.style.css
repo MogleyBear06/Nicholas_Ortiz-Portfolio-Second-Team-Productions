@@ -10,8 +10,12 @@ main {
 }
 
 body {
-    width: 100%;
-    max-width: 900px;
+   
+    width: 90vw;
+    max-width: 1440px;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
   }
 
   .headernav {
@@ -66,12 +70,9 @@ img {
 .valueprop {
     display:flex;
     justify-content: space-between;
-    max-width: 800px;
 }
 
-#vpddisplay {
-    max-width: 800px;
-}
+
 
 h3, h4, h5 {
     margin-bottom: 0%;
@@ -87,8 +88,7 @@ p {
 
 .oscontainer {
     display:flex;
-    justify-content: space-between;
-    max-width: 800px;  
+    justify-content: space-between;  
 }
 
 #sldisplay {
@@ -109,7 +109,6 @@ p {
     display:flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    max-width: 800;
 }
 
 #watchnow {
@@ -119,7 +118,6 @@ p {
 
 .aucontainer {
     display:flex;
-    max-width: 800;
     justify-content: space-between;
 }
         
