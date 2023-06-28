@@ -1,16 +1,38 @@
-# NicholasOrtiz-Challenge-2
-Webpage- Portfolio
+# Nicholas Ortiz 2nd Team Productions
+  
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  
+  ## Description
+  2nd Team Productions is a full service production agency enabling small businesses and artists to collaborate in a profitable manner. Services range from pre and post video production, marketing and web development.
 
-##Description
-Company webpage complete with landing page displaying company logo, value prop,
-list of service, featured content section with "watch now" link to redirect users
-to digital theatre (previous work), an about us section, and a contact us link in 
-the navigation bar as well as footer.
+  GitHub Pages Link: https://mogleybear06.github.io/Nicholas_Ortiz-Second-Team-Productions/html/webpageapplications.html
 
-##Considerations
-Responsive design needs to me modified to be a bit more user-friendly (mulit-device use)
-Footer sections on all pages need to be altered so that it is far below the other sections.
+  * Website has multiple pages, link sends users directly to web page applications.
+  
+  ## Table of Contents
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [License](#license)
+  - [Questions](#questions)
 
-##GitHub Pages Deployment: https://mogleybear06.github.io/NicholasOrtiz-Challenge-2/index.html
+  ## License
+  This project is licensed under the MIT license. For more information, please visit [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT).
 
-![Screen Shot 2023-02-20 at 11 59 25 PM](https://user-images.githubusercontent.com/44917761/220260096-9bda8a80-b22b-482a-8964-14afdb0212cc.png)
+  ## Installation
+  No installation required, simply contact our team to learn more about our services and how we can help you.
+  
+  ## Usage
+  The current app's usage is for the purpose of potential clients' review of Second Team's services.
+  
+  ## Contributing
+  Contributions are limited to the app's current developers.
+  
+  ## Tests
+  No testing required.
+
+  ## Questions
+  If there are any qustions regarding this application please feel free to contact me at
+  [nicholas.james.ortiz@gmail.com](mailto:nicholas.james.ortiz@gmail.com). If you're interested in other projects I've created,
+  please visit my GitHub page at [https://github.com/MogleyBear06](https://github.com/MogleyBear06).
