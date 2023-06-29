@@ -1,9 +1,9 @@
-# Nicholas Ortiz 2nd Team Productions
+# Nicholas Ortiz Portfolio 2nd Team Productions
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   ## Description
-  2nd Team Productions is a full service production agency enabling small businesses and artists to collaborate in a profitable manner. Services range from pre and post video production, marketing and web development.
+  2nd Team Productions is a full service production agency enabling small businesses and artists to collaborate in a profitable manner. Services range from pre and post video production, marketing and web development. The portfolio of 2nd Team's work is directly referenced in the link below.
 
   GitHub Pages Link: https://mogleybear06.github.io/Nicholas_Ortiz-Second-Team-Productions/html/webpageapplications.html
 
