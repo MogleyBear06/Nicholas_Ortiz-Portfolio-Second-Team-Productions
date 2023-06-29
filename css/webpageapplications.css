@@ -50,7 +50,27 @@ a {
     text-decoration: none;
 }
 
-footer{
+.primary img {
+    display: flex;
+    height: 325px;
+    width: 525px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    justify-content: left;
+}
+
+img {
+    display: flex;
+    height: 250px;
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    justify-content: left;
+}
+
+footer {
     display: flex;
     flex-direction: column;
     justify-content: center;
